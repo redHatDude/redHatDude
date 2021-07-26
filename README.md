@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kevin
+- 👀 I’m interested in Linux, Java, Php, bash, python, C, C++
+- 🌱 I’m currently learning how to talk to computers
+- 💞️ I’m looking to collaborate on php and java
+- 📫 Get me on kevinkimanthi@protonmail.com
